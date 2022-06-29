@@ -9,6 +9,11 @@
 	"scripts": {
 		"start": "node server.js"
 	},
+	"keywords": [
+		"freecodecamp",
+		"node",
+		"backend"
+	],
 	"engines": {
     "node": "16.15.0"
   },
