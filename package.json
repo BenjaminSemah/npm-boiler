@@ -15,7 +15,7 @@
 		"node",
 		"backend"
 	],
-	"author": "Benjamin Semah",
+	"author": "Benjamin V. Semah",
 	"license": "MIT",
 	"engines": {
     "node": "16.15.0"
